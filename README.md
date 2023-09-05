@@ -1,6 +1,6 @@
 # GitHub Trending Repositories App
 
-This project is a full-stack application that tracks trending repositories on GitHub and provides both a web-based front-end and a CLI (Command-Line Interface) for interacting with the service.
+This project is a full-stack application that tracks trending repositories on GitHub and provides both a [web-based front-end]('Home page.png') and a CLI (Command-Line Interface) for interacting with the service.
 
 ## Getting Started
 
