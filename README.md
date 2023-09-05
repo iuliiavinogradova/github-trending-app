@@ -23,7 +23,7 @@ cd github-trending-app
 
 3. Install the project dependencies:
 
-npx create-react-app github-trending-frontend
+npx create-react-app client
 
 npm init -y
 
