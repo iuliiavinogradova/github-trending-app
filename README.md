@@ -15,7 +15,7 @@ Before you begin, make sure you have the following software installed on your ma
 
 1. Clone this repository to your local machine using Git:
 
-git clone https://github.com/your-username/github-trending-app.git
+git clone https://github.com/iuliiavinogradova/github-trending-app.git
 
 2. Navigate to the project folder:
 
