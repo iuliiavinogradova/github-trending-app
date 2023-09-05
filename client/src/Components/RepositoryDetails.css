@@ -1,0 +1,23 @@
+.repository-details-container {
+  margin: 20px;
+  padding: 10px;
+}
+
+.repository-url a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.repository-item {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+}
+
+.repository-item:hover {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
