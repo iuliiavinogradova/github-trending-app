@@ -2,6 +2,9 @@
 
 This project is a full-stack application that tracks trending repositories on GitHub and provides both a [web-based front-end](./Homepage.png) and a CLI (Command-Line Interface) for interacting with the service.
 
+<img width="827" alt="Home page" src="https://github.com/iuliiavinogradova/github-trending-app/assets/102851437/0500473a-ef24-4362-ae0e-5701285f1417">
+
+
 ## Getting Started
 
 ### Prerequisites
